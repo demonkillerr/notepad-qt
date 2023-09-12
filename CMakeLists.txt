@@ -43,6 +43,7 @@ else()
     else()
         add_executable(notepad-qt
             ${PROJECT_SOURCES}
+            resources/resources.qrc
         )
     endif()
 
