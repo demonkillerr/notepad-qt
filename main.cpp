@@ -1,13 +1,15 @@
 #include "mainwindow.h"
-
+//Widgets/event-handling/mouse movements
 #include <QApplication>
+//Locale and Translation
 #include <QLocale>
 #include <QTranslator>
 
 int main(int argc, char *argv[])
 {
-    QApplication a(argc, argv);
+    QApplication a(argc, argv); //This function calls the application object
 
+    // This function handles translation
     QTranslator translator;
     const QStringList uiLanguages = QLocale::system().uiLanguages();
     for (const QString &locale : uiLanguages) {
@@ -17,7 +19,7 @@ int main(int argc, char *argv[])
             break;
         }
     }
-    MainWindow w;
-    w.show();
+    MainWindow w; //Create main application object
+    w.show(); //Display app on screen
     return a.exec();
 }
