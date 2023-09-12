@@ -95,16 +95,28 @@
    </property>
   </action>
   <action name="actionCopy">
+   <property name="icon">
+    <iconset resource="resources/resources.qrc">
+     <normaloff>:/Downloads/resources/Icons/Copy.bmp</normaloff>:/Downloads/resources/Icons/Copy.bmp</iconset>
+   </property>
    <property name="text">
     <string>Copy</string>
    </property>
   </action>
   <action name="actionPaste">
+   <property name="icon">
+    <iconset resource="resources/resources.qrc">
+     <normaloff>:/Downloads/resources/Icons/Paste.bmp</normaloff>:/Downloads/resources/Icons/Paste.bmp</iconset>
+   </property>
    <property name="text">
     <string>Paste</string>
    </property>
   </action>
   <action name="actionCut">
+   <property name="icon">
+    <iconset resource="resources/resources.qrc">
+     <normaloff>:/Downloads/resources/Icons/Cut.bmp</normaloff>:/Downloads/resources/Icons/Cut.bmp</iconset>
+   </property>
    <property name="text">
     <string>Cut</string>
    </property>
