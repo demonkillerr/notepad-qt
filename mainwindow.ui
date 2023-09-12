@@ -47,9 +47,9 @@
     <property name="title">
      <string>Edit</string>
     </property>
+    <addaction name="actionCut"/>
     <addaction name="actionCopy"/>
     <addaction name="actionPaste"/>
-    <addaction name="actionCut"/>
     <addaction name="actionUndo"/>
     <addaction name="actionRedo"/>
    </widget>
