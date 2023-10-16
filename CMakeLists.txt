@@ -45,6 +45,7 @@ else()
             ${PROJECT_SOURCES}
             resources/resources.qrc
             codeeditor.h codeeditor.cpp
+            LineNumberArea.h
         )
     endif()
 
