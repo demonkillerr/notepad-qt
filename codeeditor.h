@@ -2,6 +2,12 @@
 #define CODEEDITOR_H
 
 #include <QMainWindow>
+#include <QFile>
+#include <QFileDialog>
+#include <QMessageBox>
+#include <QPrinter>
+#include <QPrintDialog>
+#include <QTextStream>
 #include <QObject>
 #include <QWidget>
 
