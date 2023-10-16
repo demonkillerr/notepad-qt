@@ -1,16 +1,16 @@
 <RCC>
     <qresource prefix="/img"/>
     <qresource prefix="/">
-        <file>./icons/Copy.bmp</file>
-        <file>./icons/Cut.bmp</file>
-        <file>./icons/DeleteSticky.bmp</file>
-        <file>./icons/favicon.ico</file>
-        <file>./icons/Highlight.bmp</file>
-        <file>./icons/New.bmp</file>
-        <file>./icons/Open.bmp</file>
-        <file>./icons/Paste.bmp</file>
-        <file>./icons/Save.bmp</file>
-        <file>./icons/Sticky.bmp</file>
-        <file>./icons/Turtle.png</file>
+        <file>../../../../Downloads/resources/Icons/Copy.bmp</file>
+        <file>../../../../Downloads/resources/Icons/Cut.bmp</file>
+        <file>../../../../Downloads/resources/Icons/DeleteSticky.bmp</file>
+        <file>../../../../Downloads/resources/Icons/favicon.ico</file>
+        <file>../../../../Downloads/resources/Icons/Highlight.bmp</file>
+        <file>../../../../Downloads/resources/Icons/New.bmp</file>
+        <file>../../../../Downloads/resources/Icons/Open.bmp</file>
+        <file>../../../../Downloads/resources/Icons/Paste.bmp</file>
+        <file>../../../../Downloads/resources/Icons/Save.bmp</file>
+        <file>../../../../Downloads/resources/Icons/Sticky.bmp</file>
+        <file>../../../../Downloads/resources/Icons/Turtle.png</file>
     </qresource>
 </RCC>
