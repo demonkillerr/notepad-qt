@@ -44,8 +44,8 @@ else()
         add_executable(notepad-qt
             ${PROJECT_SOURCES}
             resources/resources.qrc
-            codeeditor.h codeeditor.cpp
-            LineNumberArea.h
+
+
         )
     endif()
 
