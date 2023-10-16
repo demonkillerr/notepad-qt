@@ -60,7 +60,7 @@
   <action name="actionNew">
    <property name="icon">
     <iconset resource="resources/resources.qrc">
-     <normaloff>:/Downloads/resources/Icons/New.bmp</normaloff>:/Downloads/resources/Icons/New.bmp</iconset>
+     <normaloff>:/resources/icons/New.bmp</normaloff>:/resources/icons/New.bmp</iconset>
    </property>
    <property name="text">
     <string>New</string>
@@ -69,7 +69,7 @@
   <action name="actionOpen">
    <property name="icon">
     <iconset resource="resources/resources.qrc">
-     <normaloff>:/Downloads/resources/Icons/Open.bmp</normaloff>:/Downloads/resources/Icons/Open.bmp</iconset>
+     <normaloff>:/resources/icons/Open.bmp</normaloff>:/resources/icons/Open.bmp</iconset>
    </property>
    <property name="text">
     <string>Open</string>
@@ -78,18 +78,26 @@
   <action name="actionSave_As">
    <property name="icon">
     <iconset resource="resources/resources.qrc">
-     <normaloff>:/Downloads/resources/Icons/Save.bmp</normaloff>:/Downloads/resources/Icons/Save.bmp</iconset>
+     <normaloff>:/resources/icons/Save.bmp</normaloff>:/resources/icons/Save.bmp</iconset>
    </property>
    <property name="text">
     <string>Save As</string>
    </property>
   </action>
   <action name="actionPrint">
+   <property name="icon">
+    <iconset resource="resources/resources.qrc">
+     <normaloff>:/resources/icons/Sticky.bmp</normaloff>:/resources/icons/Sticky.bmp</iconset>
+   </property>
    <property name="text">
     <string>Print</string>
    </property>
   </action>
   <action name="actionExit">
+   <property name="icon">
+    <iconset resource="resources/resources.qrc">
+     <normaloff>:/resources/icons/DeleteSticky.bmp</normaloff>:/resources/icons/DeleteSticky.bmp</iconset>
+   </property>
    <property name="text">
     <string>Exit</string>
    </property>
@@ -97,7 +105,7 @@
   <action name="actionCopy">
    <property name="icon">
     <iconset resource="resources/resources.qrc">
-     <normaloff>:/Downloads/resources/Icons/Copy.bmp</normaloff>:/Downloads/resources/Icons/Copy.bmp</iconset>
+     <normaloff>:/resources/icons/Copy.bmp</normaloff>:/resources/icons/Copy.bmp</iconset>
    </property>
    <property name="text">
     <string>Copy</string>
@@ -106,7 +114,7 @@
   <action name="actionPaste">
    <property name="icon">
     <iconset resource="resources/resources.qrc">
-     <normaloff>:/Downloads/resources/Icons/Paste.bmp</normaloff>:/Downloads/resources/Icons/Paste.bmp</iconset>
+     <normaloff>:/resources/icons/Paste.bmp</normaloff>:/resources/icons/Paste.bmp</iconset>
    </property>
    <property name="text">
     <string>Paste</string>
@@ -115,7 +123,7 @@
   <action name="actionCut">
    <property name="icon">
     <iconset resource="resources/resources.qrc">
-     <normaloff>:/Downloads/resources/Icons/Cut.bmp</normaloff>:/Downloads/resources/Icons/Cut.bmp</iconset>
+     <normaloff>:/resources/icons/Cut.bmp</normaloff>:/resources/icons/Cut.bmp</iconset>
    </property>
    <property name="text">
     <string>Cut</string>
