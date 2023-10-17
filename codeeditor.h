@@ -6,6 +6,8 @@
 #include <QWidget>
 #include <QPlainTextEdit>
 #include <QFrame>
+#include <QPainter>
+#include <QTextBlock>
 
 class CodeEditor : public QPlainTextEdit
 {
