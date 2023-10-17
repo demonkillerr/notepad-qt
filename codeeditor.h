@@ -7,7 +7,7 @@
 #include <QPlainTextEdit>
 #include <QFrame>
 
-class CodeEditor : public QWidget
+class CodeEditor : public QPlainTextEdit
 {
     Q_OBJECT
 public:
