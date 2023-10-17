@@ -4,6 +4,8 @@
 #include <QMainWindow>
 #include <QObject>
 #include <QWidget>
+#include <QPlainTextEdit>
+#include <QFrame>
 
 class CodeEditor : public QWidget
 {
